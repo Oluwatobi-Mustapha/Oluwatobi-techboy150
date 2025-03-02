@@ -1,10 +1,8 @@
 # Hello, I'm OLUWATOBI MUSTAPHA 
 # Connect with me 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@techboy150-blue?style=flat&logo=twitter)](https://twitter.com/techboy150)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-
+[![X (formerly Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white) ](https://twitter.com/techboy150)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
@@ -19,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Oluwatobi-techboy150/-Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,6 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Oluwatobi-techboy150/-Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - Malware Analysis
