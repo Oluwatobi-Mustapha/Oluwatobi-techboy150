@@ -2,13 +2,13 @@
 
 **Cloud SOC Analyst (AWS-Focused) | Incident Response | Threat Detection**
 
-I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
+I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and I also know how to automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
 
 ---
 
 ##  Connect with Me
 
-[![ (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/techboy150)
+[![X (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/techboy150)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
 
 ---
@@ -17,7 +17,7 @@ I simulate real-world threats in the cloud, build detection pipelines with AWS-n
 
 I'm an Electrical engineering graduate building a focused career in cloud security.
 
-My current work revolves around **AWS-based threat detection and SOC automation**. I study the way attackers move in the cloud, simulate those behaviors in my lab, and build real-time detection and response systems using services like **GuardDuty**, **CloudTrail**, **EventBridge**, and **Lambda**.
+My current work revolves around **AWS-based threat detection and SOC automation**. I study the way attackers move in the cloud, simulate those behaviors in my lab, and build real-time detection and response systems using services like **GuardDuty**, **CloudTrail**, **EventBridge**, and **Lambda**,
 
 I share my journey publicly, with one goal: **to get better through consistent, hands-on practice**.
 
@@ -67,7 +67,7 @@ I share my journey publicly, with one goal: **to get better through consistent, 
   <img src="https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-### 🧠 Detection & Response
+### Detection & Response
 
 <div>
   <img src="https://img.shields.io/badge/Shuffle_SOAR-303030?style=for-the-badge&logo=python&logoColor=white" />
@@ -102,16 +102,15 @@ I share my journey publicly, with one goal: **to get better through consistent, 
 
 Every Friday, I share projects, lessons, and workflows from my AWS Cloud SOC lab — including detection strategies, automation steps, real alerts, and everything I’m learning.
 
-Follow the hashtag on [**X**](https://twitter.com/techboy150)  
-Check out my pinned post for the full project thread!
+Follow the hashtag on [**𝕏**](https://twitter.com/techboy150)  
 
 ---
 
-##  Open to Work
+## Open to Work
 
-I'm actively looking for opportunities as a **Cloud SOC Analyst** — contract, full-time, or apprenticeship.
+I'm actively looking for opportunities as a **Cloud SOC Analyst(AWS-Based)** — contract, full-time, or apprenticeship.
 
-If you're building a cloud security team and need someone who's **hands-on, reliable, and growing daily**, I'll be glad to work with you
+If you're building a cloud security team and need someone who's **hands-on, reliable, and growing daily**, I'll be glad to work with you.
 
 📧 Email me directly: **oluwatobimustapha539@gmail.com**  
-💬 DM me on 𝕏 or connect on [LinkedIn](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
+💬 DM me on [𝕏](https://x.com/Techboy150) or connect on [LinkedIn](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
