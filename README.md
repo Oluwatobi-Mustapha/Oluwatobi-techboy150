@@ -72,10 +72,8 @@ I share my journey publicly, with one goal: **to get better through consistent, 
 <div>
   <img src="https://img.shields.io/badge/Shuffle_SOAR-303030?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TheHive_CM-FFCC00?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Velociraptor_EDR-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Osquery-35495E?style=for-the-badge&logoColor=white" />
-</div>
-
+  <img src="https://img.shields.io/badge/Velociraptor_EDR-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" /> </div>
+ 
 ### 🛰 Network + SIEM
 
 <div>
