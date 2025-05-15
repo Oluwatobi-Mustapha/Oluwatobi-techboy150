@@ -2,7 +2,7 @@
 
 **Cloud SOC Analyst (AWS-Focused) | Incident Response | Threat Detection**
 
-I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and I also know how to automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
+I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
 
 ---
 
