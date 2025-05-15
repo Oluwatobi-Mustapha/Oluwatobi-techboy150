@@ -8,7 +8,7 @@ I simulate real-world threats in the cloud, build detection pipelines with AWS-n
 
 ##  Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/techboy150)
+[![ (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/techboy150)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
 
 ---
