@@ -38,7 +38,7 @@ I share my journey publicly, with one goal: **to get better through consistent, 
 ## Projects (Active and Upcoming)
 
 ### Active
-- [**IAM Access/Secret Keys Exposure on Github** - Testing how fast the new AWSCompromisedKeyQuarantineV3 policy responds to the breach.
+- **IAM Access/Secret Keys Exposure on Github** - Testing how fast the new AWSCompromisedKeyQuarantineV3 policy responds to the breach.
 - **Root Account Usage Detection** – Detect and respond to AWS root access in real-time  
 - **GuardDuty Alert Enrichment** – Investigate and document findings triggered by common cloud attacks  
 - **Crypto Mining Simulation on EC2** – Detect unauthorized compute usage and triage with AWS tools  
