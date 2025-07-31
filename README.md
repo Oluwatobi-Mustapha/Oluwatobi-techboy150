@@ -1,6 +1,6 @@
 # Hi, I'm Oluwatobi Mustapha
 
-**Cloud SOC Analyst (AWS-Focused) | Incident Response | Threat Detection**
+**Cloud Detection Engineer (AWS) | Threat Detection & Incident Response | IAM & Serverless Monitoring**
 
 I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
 
@@ -8,7 +8,7 @@ I simulate real-world threats in the cloud, build detection pipelines with AWS-n
 
 ##  Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/techboy150)
+[![X (Twitter)](https://img.shields.io/badge/X-@tobi_mustapha1-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tobi_mustapha1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
 
 ---
@@ -105,7 +105,7 @@ Follow the hashtag on [**𝕏**](https://twitter.com/techboy150)
 
 ## Open to Work
 
-I'm actively looking for opportunities as a **Cloud SOC Analyst(AWS-Based)** — contract, full-time, or apprenticeship.
+I'm actively looking for opportunities as a **Cloud detection engineer(AWS-Based)** — contract, full-time, or apprenticeship.
 
 If you're building a cloud security team and need someone who's **hands-on, reliable, and growing daily**, I'll be glad to work with you.
 
